@@ -2,7 +2,7 @@
   
 [Putting all the cool bits and pieces ive found on the internet in here.]: # 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=EEF705&lines=Hi+there!;My+name+is+Chris;I'm+here+to+improve+my+Git+skills;This+is+the+coolest+thing+i+have+found;Text+that+moves;stay+tuned!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=EEF705&lines=Hi+there!;My+name+is+Chris;I'm+here+to+improve+my+Git+skills;Stay+tuned!)
 </div>
 
 ## About me
