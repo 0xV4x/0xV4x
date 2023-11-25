@@ -12,9 +12,7 @@
   
 My day to day job is a combination network engineering and babysitting. Recently completed a Cyber Security degree and looking to build on this to broaden my brain. 
 
-In my spare time I enjoy working on my homelab and playing around with turning my house into an enterprise-grade spaceship.
-
-Currently completing a Masters in Cyber security at Edith Cowan University. 
+In my spare time I enjoy hanging out with my family, nerding out, and learning random irrelevant things.
   
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/0xV4x)
 
@@ -28,8 +26,9 @@ Currently completing a Masters in Cyber security at Edith Cowan University.
 
 ### Certifications
   
-- [x] Graduate Diploma of Cyber Security
+- [x] Master of Cyber Security
 - [x] Cisco Certified Network Associate
+- [ ] More will come i promise..
   
 ### Languages
   
@@ -42,11 +41,16 @@ Currently completing a Masters in Cyber security at Edith Cowan University.
 - [x] Cambium
 - [x] Rajant
 - [x] Extreme Networks
+- [ ] 
   
 ### Current study
   
 - [ ] Red Hat Certified System Administrator (RHCSA)
-- [ ] Master of Cyber Security
+- [ ] CISSP
+- [ ] OSCP
+- [ ] CCDP
+- [ ] Anything network architect related (Cisco Design etc)
+
   
 </details>
 
